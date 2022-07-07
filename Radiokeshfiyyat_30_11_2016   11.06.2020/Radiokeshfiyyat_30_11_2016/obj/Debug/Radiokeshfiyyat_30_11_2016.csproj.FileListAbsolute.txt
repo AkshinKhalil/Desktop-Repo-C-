@@ -1,0 +1,38 @@
+c:\users\hp\documents\visual studio 2015\Projects\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\bin\Debug\Radiokeshfiyyat_30_11_2016.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.Cedvel.resources
+c:\users\hp\documents\visual studio 2015\Projects\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.RadioKeshfiyyat.resources
+c:\users\hp\documents\visual studio 2015\Projects\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.Tek_tezliyin_axtarishi.resources
+c:\users\hp\documents\visual studio 2015\Projects\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\bin\Debug\Radiokeshfiyyat_30_11_2016.exe
+c:\users\hp\documents\visual studio 2015\Projects\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\bin\Debug\Radiokeshfiyyat_30_11_2016.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.exe
+c:\users\hp\documents\visual studio 2015\Projects\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.pdb
+C:\Users\Hp\documents\visual studio 2015\Projects\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.Istifadeci_muhafize.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.csprojResolveAssemblyReference.cache
+D:\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\bin\Debug\Radiokeshfiyyat_30_11_2016.exe.config
+D:\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.exe
+D:\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.pdb
+D:\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\bin\Debug\Radiokeshfiyyat_30_11_2016.exe
+D:\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\bin\Debug\Radiokeshfiyyat_30_11_2016.pdb
+D:\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.csprojResolveAssemblyReference.cache
+D:\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.Cedvel.resources
+D:\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.RadioKeshfiyyat.resources
+D:\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.Istifadeci_muhafize.resources
+D:\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.Properties.Resources.resources
+D:\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.Tek_tezliyin_axtarishi.resources
+D:\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.csproj.GenerateResource.Cache
+D:\Radiokeshfiyyat_30_11_2016\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.csproj.CoreCompileInputs.cache
+C:\Users\Akshin\Documents\Visual Studio 2017\Projects\Radiokeshfiyyat_30_11_2016   05.09.2018\Radiokeshfiyyat_30_11_2016\bin\Debug\Radiokeshfiyyat_30_11_2016.exe.config
+C:\Users\Akshin\Documents\Visual Studio 2017\Projects\Radiokeshfiyyat_30_11_2016   05.09.2018\Radiokeshfiyyat_30_11_2016\bin\Debug\Radiokeshfiyyat_30_11_2016.exe
+C:\Users\Akshin\Documents\Visual Studio 2017\Projects\Radiokeshfiyyat_30_11_2016   05.09.2018\Radiokeshfiyyat_30_11_2016\bin\Debug\Radiokeshfiyyat_30_11_2016.pdb
+C:\Users\Akshin\Documents\Visual Studio 2017\Projects\Radiokeshfiyyat_30_11_2016   05.09.2018\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.csprojResolveAssemblyReference.cache
+C:\Users\Akshin\Documents\Visual Studio 2017\Projects\Radiokeshfiyyat_30_11_2016   05.09.2018\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.Cedvel.resources
+C:\Users\Akshin\Documents\Visual Studio 2017\Projects\Radiokeshfiyyat_30_11_2016   05.09.2018\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.RadioKeshfiyyat.resources
+C:\Users\Akshin\Documents\Visual Studio 2017\Projects\Radiokeshfiyyat_30_11_2016   05.09.2018\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.Istifadeci_muhafize.resources
+C:\Users\Akshin\Documents\Visual Studio 2017\Projects\Radiokeshfiyyat_30_11_2016   05.09.2018\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.Properties.Resources.resources
+C:\Users\Akshin\Documents\Visual Studio 2017\Projects\Radiokeshfiyyat_30_11_2016   05.09.2018\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.Tek_tezliyin_axtarishi.resources
+C:\Users\Akshin\Documents\Visual Studio 2017\Projects\Radiokeshfiyyat_30_11_2016   05.09.2018\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.csproj.GenerateResource.cache
+C:\Users\Akshin\Documents\Visual Studio 2017\Projects\Radiokeshfiyyat_30_11_2016   05.09.2018\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.csproj.CoreCompileInputs.cache
+C:\Users\Akshin\Documents\Visual Studio 2017\Projects\Radiokeshfiyyat_30_11_2016   05.09.2018\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.exe
+C:\Users\Akshin\Documents\Visual Studio 2017\Projects\Radiokeshfiyyat_30_11_2016   05.09.2018\Radiokeshfiyyat_30_11_2016\obj\Debug\Radiokeshfiyyat_30_11_2016.pdb
